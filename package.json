@@ -1,0 +1,19 @@
+{
+  "name": "student-profile-9942",
+  "version": "1.0.0",
+  "description": "hatchway assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hnguyen96/student-profile-9942.git"
+  },
+  "author": "Nam Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hnguyen96/student-profile-9942/issues"
+  },
+  "homepage": "https://github.com/hnguyen96/student-profile-9942#readme"
+}
